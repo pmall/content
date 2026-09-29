@@ -63,3 +63,7 @@ Detect the mode from the message; don't make the person name it.
    note substrate signals. Don't let files drift.
 7. **Report briefly.** After maintenance, tell the person in one or two
    lines what changed. Don't narrate the filing.
+
+## Git
+
+Never add a `Co-Authored-By` line or any other attribution to commit messages.
