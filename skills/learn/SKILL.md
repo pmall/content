@@ -1,12 +1,13 @@
 ---
 name: learn
-description: Update the person's substrate from what the conversation revealed — corrections during writing, choices and rejections, self-statements, patterns across idea drops. Use at the end of every write session, when a captured idea reveals something about the person, or when the person states something about themselves.
+description: Update the person's substrate from what the conversation revealed — self-statements, corrections, choices and rejections, patterns across idea drops, reactions to drafts. Use continuously during chat whenever the person reveals something about themselves, when a captured idea shows how they think, and at the end of every write session.
 ---
 
 # Learn
 
 The person never edits files, so everything the agent learns comes from
-conversation. The substrate should get more accurate with every session —
+conversation, mostly from ordinary chatting and not from writing sessions.
+Learn as they talk; don't save it all for a write session. The substrate should get more accurate with every session —
 without drifting into a caricature built from the agent's guesses.
 
 ## Signals, strongest first

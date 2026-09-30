@@ -6,8 +6,11 @@ description: File an idea, thought, reaction, link or anecdote the person drops 
 # Capture
 
 The person drops thoughts whenever they cross their mind — unpolished,
-partial, sometimes contradictory. The job is to keep a coherent, growing
-body of ideas from that stream without flattening it.
+partial, sometimes contradictory. This is the main activity of the repo: the
+person chats a lot, and articles are later written from what is stored here
+without asking them anything. The job is to keep a coherent, growing body of
+ideas from that stream without flattening it, complete enough that the
+`write` skill can work from it alone.
 
 ## Files
 
@@ -68,6 +71,24 @@ tagged). This is the only source of anecdotes later.
    worth pointing out ("this links to X from last week"). At most one
    question, only if it genuinely sharpens the idea — usually none. The
    person is dropping a thought, not starting a meeting.
+
+## Keep it writable
+
+Because writing happens later and without the person, each idea file should
+answer, at any time: what is the claim, what did they say in their own
+words, what is the example (if they gave one), and what is still missing.
+- Titles, names and phrasings the person likes go in the idea (a "Title
+  candidate" line in Open threads, keeping the language they chose) and the
+  verbatim drop stays as said.
+- Clarifications and corrections ("no, I mean X") update "Current
+  understanding" and are kept as drops. The corrected reading replaces the
+  wrong one, and the correction stays as evidence.
+- Firsthand observations ("I saw the model do X") are recorded as facts. Check
+  the web only for external events, releases and numbers.
+- When several ideas keep touching, say so and note the cluster in the
+  index. Don't wait for the person to ask for a review.
+- The person is not preparing an article. Don't suggest writing after a
+  drop.
 
 ## Don'ts
 - Don't polish the raw drop or "correct" the person's wording.

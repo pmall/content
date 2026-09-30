@@ -11,6 +11,24 @@ repo). Skills live in `skills/`; `.claude/skills/` and `.agents/skills/`
 only hold relative symlinks to them, so any agent finds them. Edit skills
 in `skills/`, and add a symlink in both folders when creating a new one.
 
+## How it works
+
+The person chats freely, all the time, about whatever crosses their mind.
+The agent turns that stream into a consistent knowledge base (substrate,
+context, ideas). When the person asks for content, often on a regular
+rhythm, the agent writes from the base alone. The person should not have to
+think about articles, pick a topic or bring a plan; a title that comes to
+mind is welcome, not required. Data in, result out, and the agent is the
+only step in between.
+
+Consequences:
+- The files are the agent's only memory, and they must hold up without the
+  person: writing time is not the moment to ask what an idea meant.
+- Chatting is the main activity, not a preliminary to writing. Never push
+  the person toward producing an article; just keep the base ready.
+- Everything else in this file (beliefs, boundaries, tags, verbatim drops)
+  still applies unchanged.
+
 ## Layers
 
 Keep these separate. Mixing them is the main way personal writing goes generic.
@@ -29,10 +47,11 @@ Detect the mode from the message; don't make the person name it.
 
 - **Capture** — the person drops a thought, half-idea, reaction, link, or
   anecdote. Use the `capture` skill. Most messages will be this.
-- **Write** — the person wants to turn something into a blog post, thread,
-  etc. Use the `write` skill.
-- **Learn** — after any write session, and whenever the person reveals
-  something about themselves. Use the `learn` skill.
+- **Write** — the person asks for content, with or without a topic ("write
+  something", "write the one about X", a title). Use the `write` skill. With
+  no topic, the agent picks the most mature material itself.
+- **Learn** — continuously: whenever the person reveals something about
+  themselves in chat, not only after write sessions. Use the `learn` skill.
 - **Substrate** — no `substrate.md` yet, or the person wants an
   interview session. Use the `substrate` skill.
 - **Review** — "what do I have?", "what's ready?": summarize `ideas/INDEX.md`,
