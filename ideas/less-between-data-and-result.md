@@ -34,3 +34,9 @@ sense.
 
 ### 2026-09-30 (later still)
 > an example of presenting the data in a right way is the graph of interactions im building, supported by publications
+
+### 2026-09-30 (this repo)
+> What i think is funny is this repo, and this project is like a version of seren but where *I am* the source of data, not the internet (like seren). The goal is we feed the knowledge base of this repo by chatting with you and like every week i ask you to write an article. I think i should barely think about article, except when i have a great title in mind like "leveraging infinity"
+
+### 2026-09-30 (data only, then result)
+> yes actually it fits my data only then result. Data is our chat and the base we are build, and articles are the result. Only you in between, not me.

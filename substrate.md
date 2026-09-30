@@ -12,6 +12,7 @@
 - **Content languages:** [E] English first; French translation only when asked. (interview 2026-09-28)
 - **Audiences / channels:** [E] personal blog first, then articles shared on LinkedIn and Twitter/X. Audience: "people that matter, i dont know". (interview 2026-09-28)
 - **Reader archetype:** [E] "People that matter are often non-expert too." The model reader is a smart decision-maker who knows AI is a big deal and is very interested, but doesn't know most of the concepts, where it's heading, or how to implement it. Example given: the director of a large organization with a legacy ERP and locked-down IT processes. They are not a peer developer. Private acquaintance, so never mention them or their organization in content. (interview 2026-09-29)
+- **How they want to use this repo:** [E] They chat and drop thoughts, the agent keeps the knowledge base. About once a week they ask for an article, and otherwise they barely think about articles, except when a title comes to mind (e.g. "leveraging infinity"). They compare it to Seren, with themselves as the data source instead of the internet. (2026-09-30)
 - **Register for writing:** [E] Writing should sound like the explanatory email (patient, plain, precise), not like the chat voice. (interview 2026-09-29)
 
 ---
