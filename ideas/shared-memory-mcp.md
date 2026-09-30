@@ -3,7 +3,7 @@ title: Shared memory across agents and people
 status: raw
 created: 2026-09-28
 updated: 2026-09-28
-related: [templates-are-the-new-apps, semantic-world-by-everyday-use]
+related: [semantic-world-by-everyday-use]
 context: []
 ---
 

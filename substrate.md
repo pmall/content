@@ -5,7 +5,7 @@
 > Optional source after a statement: `(interview 2026-09-28)`, `(idea: slug)`, `(write: slug)`.
 > Prefer "tends to X because Y" over adjectives. Leave a section empty rather than fill it with generic material.
 >
-> [E] Individual ideas are not traits. The "templates / value is data" thread is "one of my random idea from a few month ago", not a belief, and was removed from here (it lives in `ideas/`). Don't turn an individual idea into a trait. (interview 2026-09-28)
+> [E] Individual ideas are not traits. A single idea they dropped, especially an old one, is not a belief. Keep it in `ideas/`, don't turn it into a trait. (interview 2026-09-28)
 
 
 - **Last reviewed:** 2026-09-30 (voice, stance and reader interview done; taste still thin)
@@ -30,7 +30,6 @@
 
 - [E] About ten years in bioinformatics / R&D at EnyoPharma: viral–human PPI networks, large biological datasets. See [enyopharma](context/enyopharma.md). (interview 2026-09-30)
 - [E] Earlier: CRCL / Inserm, alternative splicing and genomic annotation. See [crcl-inserm](context/crcl-inserm.md). (interview 2026-09-30)
-- [E] Their own term: a "template" is a coding agent plus markdown files that assist them in one field. This repo is one. (interview 2026-09-28)
 - [E] Works well in teams, with occasional remote. Likes being close to the workplace to be flexible. Does not like working alone. (interview 2026-09-30)
 - [E] Writes because they aren't visible enough. Has good ideas but trouble turning them into content, which is why this system exists. No existing body of writing. (interview 2026-09-28)
 - [E] Does not want content centered on their bioinformatics projects. Wada, Kura, bpgraph, EnyoPharma work are only examples, and "we dont care what graph it is". (interview 2026-09-29)
@@ -43,6 +42,7 @@
 - [E] Most people miss it because their experience is one inference: ask for a document, judge that one output. "But this is still a stochastic process. This is one document out of infinity of documents the system can produce." (interview 2026-09-29)
 - [E] The alternative they see: generate thousands of candidates, evaluate, rank, mix the good ideas. They call it "the diamond pattern" (fan out, then converge). (interview 2026-09-29)
 - [E] Two failure modes of a single agent run: it loses track across many hypotheses, and which hypothesis it explores is stochastic. Their fix: one orchestrator spawning X subagents, one per hypothesis. "The greater the X the more exhaustive we are." (interview 2026-09-29)
+- [E] Sees the ability to evaluate and correct one's own result as closer to intelligence than getting it right the first time. Recent trigger: a music video animated in JavaScript with Opus 5.5, where the model reads its result and fixes it. With unlimited energy, produce-evaluate-correct in a loop opens the door to any problem solving, and to unlimited trial and error and training. Speed matters alongside energy: an endless loop is useless, and a faster model fits more self-correction loops in the same time. (idea: compute-is-the-missing-picture, 2026-09-30)
 - [E] On who ranks the candidates: "the agent, obviously", especially in biology. Treats evaluation by agents as a non-issue. The first version is one orchestrator that spawns a swarm and collects results. (interview 2026-09-29)
 - [E] Their example came from exploring a graph database with Opus, but the graph is incidental. The point is general. (interview 2026-09-29)
 - [E] No single concrete origin moment: the insight was not a specific event. It became clearer recently, after a few runs with a single big Opus. (interview 2026-09-29)
@@ -80,8 +80,11 @@
 ## 8. Epistemic style
 
 - [E] "Péremptoire" is used in its normal French sense (categorical, no reply admitted). "Unable to see farther than their own thing" is a different criticism they also make, and must not be merged with it. An earlier version here fused the two and was the agent's own gloss. (interview 2026-09-29, clarified 2026-09-30)
+- [E] Their firsthand observations are facts to record, not claims to re-verify. When they say they saw something (e.g. the model reading and correcting its own render), take it as stated. Verify external events and numbers, not what they saw themselves. (2026-09-30)
 - [E] Treats their observations as self-evident, "as sure as the sky is blue". Asked how they'd justify a claim: "How can i justify an observation other than 'i observe it'?" Their basis is what they have seen firsthand, stated as such. They don't build proof scaffolding around it. (interview 2026-09-29)
 - [E] Cite and show studies when there is something real to cite. Their own observations stand as observations, but external evidence is welcome where it exists. Never pad with vague "studies show" or invent sources. (interview 2026-09-29)
+- [E] Uses external examples for the method they show, not for whether the result is right: on OpenAI's reported 10,000-agent Navier-Stokes proof, "i dont care if they actually solved it, the point is how they use agents"; "we are not doing scientific reviews". Don't litigate or over-caveat an example. Say "reported" and move on. (idea: compute-is-the-missing-picture, 2026-09-30)
+- [E] Their thoughts are mostly triggered by recent news, not by things from six months ago. The events they refer to are often after the agent's knowledge cutoff, so check the web for any recent event, release or claim they mention instead of relying on memory, and keep the sources. (2026-09-30)
 - [E] Doesn't see why they'd write about unsure things: "Hypotheses and conjectures are not unsure." A hypothesis is a precise claim, not a fuzzy feeling. Don't add hedging or "unsure" framing to their theses just because they are hypotheses. (interview 2026-09-29)
 - [E] Less absolute than Mallard. Mallard says "life is an algorithm"; they would say "the algorithm is like life". Same territory, but a comparison instead of an identity claim. (interview 2026-09-29)
 - [E] Grants that a bold forecast can be "right in the absolute" (the endpoint) while insisting "there is so many frictions between here and there". Endpoint certainty, path caution. (interview 2026-09-29)

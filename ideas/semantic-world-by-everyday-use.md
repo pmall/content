@@ -3,7 +3,7 @@ title: A semantic world built by everyday use
 status: raw
 created: 2026-09-28
 updated: 2026-09-28
-related: [shared-memory-mcp]
+related: [shared-memory-mcp, less-between-data-and-result]
 context: [kura, bpgraph]
 ---
 

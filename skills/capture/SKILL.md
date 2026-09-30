@@ -73,4 +73,4 @@ tagged). This is the only source of anecdotes later.
 - Don't polish the raw drop or "correct" the person's wording.
 - Don't turn a suspicion into a thesis in "Current understanding".
 - Don't invent connections to look useful. Only real ones.
-- Don't research during capture unless asked; note it in Open threads.
+- Don't research during capture unless asked or the substrate says the person's thoughts track recent news (then check recent events on the web and record sources); otherwise note it in Open threads.

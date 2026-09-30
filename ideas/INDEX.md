@@ -3,9 +3,8 @@
 ## AI and compute
 - [AI is a matter of compute, and most people judge one inference](compute-is-the-missing-picture.md) — growing — fan out thousands of candidates, rank, mix ("diamond pattern")
 
-## Where software value moves
-- [The value is the data, not the template](value-is-data-not-templates.md) — raw — the shell is easy, curated context is scarce
-- [Templates are the new apps](templates-are-the-new-apps.md) — raw — agents are the browser, the LLM is the rendering engine
+## Where human work moves
+- [Less and less between data and the result](less-between-data-and-result.md) — raw — our job: present data for an agent, formulate the result
 
 ## Memory and agents beyond work
 - [Shared memory across agents and people](shared-memory-mcp.md) — raw — from dating agent to shared-memory MCP
