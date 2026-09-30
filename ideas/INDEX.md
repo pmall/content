@@ -9,3 +9,4 @@
 ## Memory and agents beyond work
 - [Shared memory across agents and people](shared-memory-mcp.md) — raw — from dating agent to shared-memory MCP
 - [A semantic world built by everyday use](semantic-world-by-everyday-use.md) — raw — structured knowledge as a side effect of use
+- [The phygitalisation of AI](phygitalisation-of-ai.md) — raw — personal assistants are arriving, devices next, and value is made in the device

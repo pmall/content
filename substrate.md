@@ -61,6 +61,10 @@
 
 ## 5. Origins
 
+- [E] Says their reasoning comes from "my brain. and practice", and that they can't know more precisely where it comes from. Practice: 25 years of programming, from before the internet and before jQuery, so they watched the whole evolution of these technologies up to AI. See [programming](context/programming.md). (2026-09-30)
+- [E] Confirmed: their long-run projection (§3, §6: "obviously in 10 years it will be solved", coding going through "the full spectrum in 2 years") comes from having lived these waves of technology. (2026-09-30)
+- [E] Sees their mind as made for this kind of thing, enjoys this epoch, and says they are "absolutely sure" they are intellectually a good fit for it. (2026-09-30)
+
 
 ## 6. Recurring moves
 
@@ -77,11 +81,13 @@
 
 ## 7. Tensions
 
+- [I] Certain they are intellectually fit for this epoch (§5), yet humble about their own expertise and afraid people expect too much of them (§1). Probably not a contradiction: fit for the era is not the same as expert. Unconfirmed. For writing: their confidence shows in the firmness of their claims, never as self-praise (see §10, overselling).
 
 ## 8. Epistemic style
 
 - [E] "Péremptoire" is used in its normal French sense (categorical, no reply admitted). "Unable to see farther than their own thing" is a different criticism they also make, and must not be merged with it. An earlier version here fused the two and was the agent's own gloss. (interview 2026-09-29, clarified 2026-09-30)
-- [E] Their firsthand observations are facts to record, not claims to re-verify. When they say they saw something (e.g. the model reading and correcting its own render), take it as stated. Verify external events and numbers, not what they saw themselves. (2026-09-30)
+- [E] Their firsthand observations are facts to record, not claims to re-verify. When they say they saw something (e.g. the model reading and correcting its own render), take it as stated. Verify specific external events, releases and numbers, not what they saw themselves and not widely known background (e.g. "AI companies aren't making money for now": "Everyone knows"). Don't flag common background as unchecked. (2026-09-30)
+- [E] Simplifies on purpose in chat and knows it ("I was simplifying"). Don't treat a chat shorthand as their precise claim, and don't correct it unless the detail matters to the point. (2026-09-30)
 - [E] Treats their observations as self-evident, "as sure as the sky is blue". Asked how they'd justify a claim: "How can i justify an observation other than 'i observe it'?" Their basis is what they have seen firsthand, stated as such. They don't build proof scaffolding around it. (interview 2026-09-29)
 - [E] Cite and show studies when there is something real to cite. Their own observations stand as observations, but external evidence is welcome where it exists. Never pad with vague "studies show" or invent sources. (interview 2026-09-29)
 - [E] Uses external examples for the method they show, not for whether the result is right: on OpenAI's reported 10,000-agent Navier-Stokes proof, "i dont care if they actually solved it, the point is how they use agents"; "we are not doing scientific reviews". Don't litigate or over-caveat an example. Say "reported" and move on. (idea: compute-is-the-missing-picture, 2026-09-30)
