@@ -1,6 +1,6 @@
 ---
 title: Templates are the new apps
-status: seed
+status: raw
 created: 2026-09-28
 updated: 2026-09-28
 related: [value-is-data-not-templates, shared-memory-mcp]
@@ -19,7 +19,7 @@ the application.
 - Tension with "value is data": if anyone can make a template, is the template still "the app"?
 
 ## Raw drops
-### before 2026-09-28 (from seed source)
+### before 2026-09-28 (from an earlier summary)
 > templates are the new apps, agents are the browser, LLM is rendering engine
 
 > the MCP is the application

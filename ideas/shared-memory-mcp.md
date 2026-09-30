@@ -1,6 +1,6 @@
 ---
 title: Shared memory across agents and people
-status: seed
+status: raw
 created: 2026-09-28
 updated: 2026-09-28
 related: [templates-are-the-new-apps, semantic-world-by-everyday-use]
@@ -22,7 +22,7 @@ for work productivity. Privacy is an acknowledged, unresolved problem.
 - The scope-reduction path itself might be the story.
 
 ## Raw drops
-### before 2026-09-28 (from seed source)
+### before 2026-09-28 (from an earlier summary)
 > The deep idea is to manage to use the same MCP, make like a shared connection between your personal conversation with your agents.
 
 > This is so stupid we use this only for work.

@@ -18,7 +18,6 @@ Keep these separate. Mixing them is the main way personal writing goes generic.
 | Layer | Where | What it is |
 |---|---|---|
 | Substrate | `substrate.md` | The editorial model of the person: how they see things and *why*, what they reject, recurring moves, tensions, voice, boundaries. Not a bio, not a style prompt. |
-| Sources | `sources/` | Raw input material about the person (summaries of past conversations, exports, notes). Gitignored, private, kept as received; evidence for the substrate, never quoted as their words unless verbatim. |
 | Context | `context/` | Factual inventory: projects, experiences, roles, events. The only source of personal anecdotes. |
 | Ideas | `ideas/` | Things the person wants to explore, from first raw drop to ready-to-write. `ideas/INDEX.md` maps them. |
 | Research | inside drafts / idea files | External evidence. Never mixed with personal perspective. |

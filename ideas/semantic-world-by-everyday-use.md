@@ -1,6 +1,6 @@
 ---
 title: A semantic world built by everyday use
-status: seed
+status: raw
 created: 2026-09-28
 updated: 2026-09-28
 related: [shared-memory-mcp]
@@ -18,5 +18,5 @@ Exploratory, ambitious, not yet a claim.
 - Same instinct as Kura/bpgraph (agents feeding a knowledge graph) moved from science to daily life?
 
 ## Raw drops
-### before 2026-09-28 (from seed source)
+### before 2026-09-28 (from an earlier summary)
 > This could be a collaborative building of semantic world, you know, through agents, by everyday use.

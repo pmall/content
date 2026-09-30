@@ -16,7 +16,7 @@ body of ideas from that stream without flattening it.
 ```markdown
 ---
 title: Working title
-status: seed | growing | ready | written
+status: raw | growing | ready | written
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 related: [other-idea-slugs]
@@ -51,7 +51,7 @@ tagged). This is the only source of anecdotes later.
 2. **Place it.**
    - Extends an existing idea → append the raw drop, update "Current
      understanding" if it moved.
-   - New → create the file (status `seed`).
+   - New → create the file (status `raw`).
    - Touches several → put the raw drop in the main one, link the others.
    - Two ideas turn out to be the same → merge, keep all raw drops.
    - An idea contradicts an earlier one → keep both, note the tension in

@@ -29,7 +29,7 @@ substrate.
 
 ## 2. Start from what exists
 
-Before asking anything, read `substrate.md`, `sources/`, `context/`, `ideas/` (especially
+Before asking anything, read `substrate.md`, `context/`, `ideas/` (especially
 raw drops), and anything the person points you to: articles, posts, notes,
 project READMEs, talks. Ask once at the start whether such material exists.
 
