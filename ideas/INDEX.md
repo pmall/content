@@ -6,6 +6,12 @@
 ## Where human work moves
 - [Less and less between data and the result](less-between-data-and-result.md) — raw — our job: present data for an agent, formulate the result
 
+## Agents versus chatbots
+- [The difference between a chatbot and an agent is the environment](agent-gets-an-environment.md) — raw — filesystem and tools give the agent its own docs and memory, like teaching an intern
+
+## Humans under AI
+- [The human cost of AI, focus burnout and sensory overload](human-cost-of-ai-focus-and-senses.md) — raw — agents drain focus and are hard to stop; optimized media will be exhausting
+
 ## Memory and agents beyond work
 - [Shared memory across agents and people](shared-memory-mcp.md) — raw — from dating agent to shared-memory MCP
 - [A semantic world built by everyday use](semantic-world-by-everyday-use.md) — raw — structured knowledge as a side effect of use
