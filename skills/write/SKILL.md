@@ -13,11 +13,17 @@ when something essential and personal is truly missing.
 
 ## 0. Choose (when no topic is given)
 
-Pick from `ideas/INDEX.md` by maturity: a clear claim, their own words, an
-example they gave, few open gaps; a converging cluster; nothing already in
-`published/` or `drafts/`. If they gave a title, use it and find the idea it
-belongs to. Say in one line what you picked and why, name one or two
-runner-ups, and go on. Don't wait for approval.
+A piece is a reaction to a recent news item (see substrate, "Shape of a
+piece"). Search the web for recent AI news (the last days or weeks) and
+shortlist 3–5 verified items that several ideas in `ideas/INDEX.md` can
+react to, each with one line on which ideas it calls on. Ask the person for
+a one-line reaction to each, then wait: their reaction is what makes the
+piece theirs. Capture the reactions (`capture` skill), pick the item with
+the strongest reaction, and write. The news is the entry point, their
+reaction and ideas are the body, and the piece connects several ideas
+instead of developing one. Skip news their ideas have nothing real to say
+about. Nothing already in `published/` or `drafts/`. If they gave a title or
+a news item with their take, start from it and go on without the shortlist.
 
 ## 1. Load
 
@@ -78,8 +84,9 @@ sources: []
   after showing the draft.
 
 Formats:
-- **Blog:** one real idea, developed. The opening earns attention with the
-  actual point or tension, not a throat-clearing hook.
+- **Blog:** a reaction to a news item that brings several of their ideas
+  together, long enough to develop the connections. It opens on the news
+  and what it shows, not on a throat-clearing hook.
 - **Thread:** each post stands on its own and pulls to the next; first post
   carries the claim. Respect length limits.
 - **Short post:** one sharp thought.

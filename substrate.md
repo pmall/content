@@ -12,8 +12,9 @@
 - **Content languages:** [E] English first; French translation only when asked. (interview 2026-09-28)
 - **Audiences / channels:** [E] personal blog first, then articles shared on LinkedIn and Twitter/X. Audience: "people that matter, i dont know". (interview 2026-09-28)
 - **Reader archetype:** [E] "People that matter are often non-expert too." The model reader is a smart decision-maker who knows AI is a big deal and is very interested, but doesn't know most of the concepts, where it's heading, or how to implement it. Example given: the director of a large organization with a legacy ERP and locked-down IT processes. They are not a peer developer. Private acquaintance, so never mention them or their organization in content. (interview 2026-09-29)
-- **How they want to use this repo:** [E] They chat and drop thoughts, the agent keeps the knowledge base. About once a week they ask for an article, and otherwise they barely think about articles, except when a title comes to mind (e.g. "leveraging infinity"). They compare it to Seren, with themselves as the data source instead of the internet. (2026-09-30)
-- **Register for writing:** [E] Writing should sound like the explanatory email (patient, plain, precise), not like the chat voice. (interview 2026-09-29)
+- **How they want to use this repo:** [E] They chat and drop thoughts, the agent keeps the knowledge base. About once a week they ask for an article, and otherwise they barely think about articles, except when a title comes to mind (e.g. "leveraging infinity"). They compare it to Seren, with themselves as the data source instead of the internet. (2026-09-30) [E] Weekly workflow agreed 2026-10-16: the agent shortlists 3–5 recent AI news items, the person reacts in one line each in chat, and the article is written from the news, their reaction and their ideas. Never invent a reaction they didn't give. Later, maybe: a scheduled digest scraped from AI subreddits (plus calmer sources like Hacker News and lab blogs, every item verified), "we would never run out of subjects for one or two articles a week". Not set up yet. (2026-10-16)
+- **Register for writing:** [E] Writing should sound like the explanatory email (patient, plain, precise), not like the chat voice. (interview 2026-09-29) [E] Refined 2026-10-16: keep it plain and precise, but write in the first person with a stance: "more I and less neutral explainer". What they saw, did and think carries the piece; the explanation serves it, not the other way round. (feedback on drafts, 2026-10-16)
+- **Shape of a piece:** [E] Every article reacts to a recent news item. The news is the entry point, and their ideas and tone come in as the reaction, instead of ideas laid down abruptly on their own. A piece is long enough to develop, and connects several of their ideas rather than staying on one. (feedback on six drafts, 2026-10-16)
 
 ---
 
@@ -25,7 +26,7 @@
 - [E] Shrinks a big idea to its smallest core and works from that core instead of the big version. Confirmed as a trait of theirs (interview 2026-09-30).
 - [E] Likes to name things with good names. The names then become things to reason with mostly because an LLM picks up their formulation and reuses it in the chat, not because they deliberately turn names into objects. (interview 2026-09-30)
 - [E] The informal chat register ("haha", "Lmao") is chat only. Their writing register is the patient explanatory one. (interview 2026-09-29)
-- [O] Explains to non-experts by picking the one concept they lack and making it click: reports an "enlightening moment" from explaining vector search orally to a non-technical decision-maker. Not recorded, so no trace of how. (interview 2026-09-29)
+- [O] Explains to non-experts by picking the one concept they lack and making it click: reports an "enlightening moment" from explaining vector search orally to a non-technical decision-maker. Not recorded, so no trace of how. Second case (2026-10-16, idea: explaining-tokens-from-the-corpus): for tokens, starts from the problem the concept solves and disconnects it from LLMs, then reveals it ("Tadam"). Two cases so far, not yet a rule. (interview 2026-09-29)
 
 ## 2. Who they are
 
@@ -130,6 +131,7 @@ Chat register only. Publication register is still unknown.
 - [I] Contempt toward people who disagree or don't see it. They call short-sightedness "normal". Explain what is missed, don't mock.
 - [E] Writing that adopts the posture of the self-assured expert selling something. Their reference is the opposite: humble, knows the limits of what they know. (interview 2026-09-30)
 - [I] Business-strategy padding around a technical idea.
+- [E] Rejected six drafts (2026-10-16) as: too short, focused on a single topic, not enough connections between ideas, too impersonal. One idea per post, explained cleanly and ending on "something to try", read as impersonal. (feedback, 2026-10-16)
 
 ## 11. Blind spots
 
