@@ -77,6 +77,15 @@ fractal level deep, by tool limit, not by design (links to the fractal
 picture in `agent-gets-an-environment`). Their firsthand statement; not
 checked against Claude Code's documentation.
 
+Update (2026-10-23): token optimization cut 100 publications from 200M to
+57M tokens, and the person says they learned "many things" doing it. Those
+lessons are not recorded yet; likely new strategies for this list.
+First one given: "so many tricks like" zsh treating `=` as a command, so
+the model's `echo ===` always fails once and costs a full turn. Agent's
+reading, not theirs: much of the optimization is fixing small frictions of
+the environment, each multiplied by every subagent in the swarm (links to
+`agent-gets-an-environment`).
+
 ## Open threads
 - Which of these does the person see as the core? Ask them, or wait for a
   drop. The list is the agent's reading and may overweight the engineering.
@@ -118,3 +127,6 @@ checked against Claude Code's documentation.
 
 ### 2026-10-16 (correction)
 > This is not the key point. They key point is monitoring stays possible
+
+### 2026-10-23 (optimization lessons)
+> so many tricks like zsh is considering = as a command so the model doing echo === always fail once and loose a full turn lol

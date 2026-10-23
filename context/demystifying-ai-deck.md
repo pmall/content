@@ -6,3 +6,4 @@
 - [E] Its picture of a swarm: a fractal of that picture. A chatbot spawns another chatbot and environment and instructs it. The model is only in the chatbot; skills and instructions are read from the environment. (2026-10-16)
 - [E] It explains tokens by disconnecting them from LLMs: start from the need (encode all human text in one vocabulary for statistical treatment, words are not optimized) and reveal tokens as frequent slices of characters in the corpus (idea: explaining-tokens-from-the-corpus). (2026-10-16)
 - Not yet recorded: the audience, where it is presented, how far along it is. Ask before using.
+- [E] Not used for the 2026 student talk; they may make another deck for it (2026-10-23, see [student-talk-2026](student-talk-2026.md)).

@@ -22,6 +22,7 @@
 
 - [E] Increasingly an AI expert, though they say they don't know exactly what that means. Their own expertise is humble: they know how much they don't know. Explored many fields: AI, bioinformatics, blockchain and crypto, and others. (interview 2026-09-30)
 - [E] Fears that people expect too much from them. Contrasts this with far less competent people who sell trainings and act like experts: "Dunning-Kruger". (interview 2026-09-30)
+- [E] Not afraid of AI or of how it can be used: "non pas du tout" (asked by students, 2026-10-23).
 - [E] Thinks AI should be far more than work: entertainment, social, everything. Sees the "work" framing as coming from AI companies having to sell a product. Wonders what AI could do if it were not reinforcement-trained into a pleasing assistant. Sees this as an industrial revolution, not a toy. (interview 2026-09-30)
 - [E] Shrinks a big idea to its smallest core and works from that core instead of the big version. Confirmed as a trait of theirs (interview 2026-09-30).
 - [E] Likes to name things with good names. The names then become things to reason with mostly because an LLM picks up their formulation and reuses it in the chat, not because they deliberately turn names into objects. (interview 2026-09-30)
@@ -132,6 +133,7 @@ Chat register only. Publication register is still unknown.
 - [E] Writing that adopts the posture of the self-assured expert selling something. Their reference is the opposite: humble, knows the limits of what they know. (interview 2026-09-30)
 - [I] Business-strategy padding around a technical idea.
 - [E] Rejected six drafts (2026-10-16) as: too short, focused on a single topic, not enough connections between ideas, too impersonal. One idea per post, explained cleanly and ending on "something to try", read as impersonal. (feedback, 2026-10-16)
+- [E] Talk prep for a Q&A (2026-10-23): wanted "something less complete", questions grouped by theme with only a few leads each, not a full answer sheet. (feedback, 2026-10-23)
 
 ## 11. Blind spots
 

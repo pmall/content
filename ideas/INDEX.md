@@ -4,6 +4,7 @@
 - [AI is a matter of compute, and most people judge one inference](compute-is-the-missing-picture.md) — growing — fan out thousands of candidates, rank, mix ("diamond pattern")
 
 ## What AI is
+- [We already can't tell humans from AI](human-ai-already-indistinguishable.md) — raw — a French prize (Fnac 2026) went to a novel that turned out to be AI-written
 - [AI is blurry because intelligence is, "super agency" is a better name](ai-is-blurry-super-agency.md) — raw — nobody means the same by AI, nobody defines intelligence; after working with it, "super agency" (agency = using available tools efficiently to reach a goal)
 
 ## Explaining AI to non-experts
@@ -11,6 +12,8 @@
 
 ## Where human work moves
 - [Less and less between data and the result](less-between-data-and-result.md) — raw — our job: present data for an agent, formulate the result
+
+- [The easier an environment is to set up, the sooner the work is replaced](easy-environment-replaced-first.md) — raw — their answer to "what will AI replace?"
 
 - [Human work is compressed, time becomes a parameter](human-work-is-compressed.md) — raw — 1000 publications in 5 min cost the same tokens as 6 months of work; parallelism trades time for infrastructure. Title candidate: "The day I spent 100 million tokens"
 

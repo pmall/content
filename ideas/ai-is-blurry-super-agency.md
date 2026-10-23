@@ -2,7 +2,7 @@
 title: AI is blurry because intelligence is, "super agency" is a better name
 status: raw
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-23
 related: [agent-gets-an-environment, compute-is-the-missing-picture]
 context: [demystifying-ai-deck]
 ---
@@ -29,6 +29,10 @@ It came as a realization while working on a slide deck about demystifying
 AI (see `context/demystifying-ai-deck.md`), not as an explanation problem
 they solved.
 
+Applied (2026-10-23): asked by students whether super AI comes next year,
+their answer is that it depends on what one calls super AI. Same move: the
+term is undefined, so the timing question has no answer as asked.
+
 ## Open threads
 - Agency is defined (tools, efficiently, a goal). Open: does the
   produce-evaluate-correct loop in `compute-is-the-missing-picture` belong
@@ -46,3 +50,6 @@ they solved.
 
 ### 2026-10-16 (definition)
 > Agency i define it as the ability to use available tools efficiently to reach a goal
+
+### 2026-10-23 (students' question: super AI next year?)
+> je répond que ça dépend ce qu'on apelle la super ia

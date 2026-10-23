@@ -2,7 +2,7 @@
 title: Human work is compressed, time becomes a parameter
 status: raw
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-23
 related: [compute-is-the-missing-picture, less-between-data-and-result, orchestrating-agents-strategies]
 context: [literature-curation]
 ---
@@ -59,6 +59,12 @@ stated here).
   publications in one 5h window. So the limit is bought, not technical:
   compression scales with what you pay for. Math, not done.
 
+- Update (2026-10-23): project "basically done"; optimizing tokens took 100
+  publications from 200M to 57M raw tokens sent to the model (mostly cache
+  hits). The earlier "10 million" was wrong (cumulated end context size),
+  so "the day I used 10 million tokens" no longer stands as a true title.
+  The cost side of compression is itself compressible.
+
 ## Raw drops
 ### 2026-10-16
 > what im realizing concretely is that, if i can curate 1 publication in 5min and it cost 100k tokens. Then, nothing prevents me to run 1000 agents in parallel to curate 1000 publications in 5min, for 100 millions tokens. It does not matter if the 100 millions tokens are used over the course of 6 months or in 5min. There are some infrastructure costs and limits to run 1000 agents in parallel of course but this is the big idea. Human work is compressed
@@ -74,3 +80,9 @@ stated here).
 
 ### 2026-10-16 (subscriptions)
 > had i 10 subscriptions like this i could do my 1000 publications in a 5h laps
+
+### 2026-10-23 (token optimization)
+> im basically done, im optimizing the token consumption. I went from 200M for 100 publications to 57M. Many thing learned
+
+### 2026-10-23 (correction)
+> yeah i was wrong with 10M tokens. It was cumulated end context size. 200M of last week and 57M of today are total token sent to the model, raw token (that hits the cache most of the time)
